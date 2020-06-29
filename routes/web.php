@@ -31,4 +31,5 @@ Route::name('admin.')
         Route::resource('role', 'RoleController');
     });
 
+Route::resource('article', 'ArticleController');
 
