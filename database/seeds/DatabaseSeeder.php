@@ -1,5 +1,6 @@
 <?php
 
+
 use Illuminate\Database\Seeder;
 
 
@@ -14,5 +15,6 @@ class DatabaseSeeder extends Seeder
     {
         // $this->call(UserSeeder::class);
         $this->call(LaratrustSeeder::class);
+        $this->call(ArticleSeeder::class);
     }
 }
