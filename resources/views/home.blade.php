@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    Selamat Datang Di Tutorial Tsn_ngoding membuat Role Management menggunakan Laravel
                 </div>
             </div>
         </div>
